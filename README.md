@@ -10,4 +10,5 @@ Accenture is running a 3 month initial project and is tasked the following:
 **Problem** - The problem being faced by Social Buzz is the challenge of effectively managing and analysing the massive amount of unstructured data generated from their rapidly growing user base. 
 The company needs to find a solution to efficiently handle and maintain this complex technology infrastructure.
 
+The data analysis was performed on Microsoft Excel , PowerBi and Microsoft Powerpoint.
 
